@@ -32,8 +32,7 @@
  |30. Если age_1 < age_2, вывести в консоль “You don’t have access cause your age is ” + age_1 + “ It’s less then ”|let age_1 = 10; <br>let age_2 = 18; <br>let age_3 = 60;<br> let compare_1 = age_1 < age_2;<br> if (compare_1) <br>{console.log ("You don’t have access cause your age is " + age_1 + " It less then")};
  |31. Если age_1 >=  age_2 и age_1 <  age_3, вывести в консоль “Welcome  !”|let age_1 = 10;<br>let age_2 = 18;<br>let age_3 = 60;<br>let compare_1 = (age_1 >= age_2) && (age_1 < age_3)<br>if (compare_1) {<br>console.log("Welcome !")<br>}
  |32. Если age_1  > age_3, вывести в консоль “Keep calm and look Culture channel”.|let age_1 = 10;<br>let age_2 = 18;<br>let age_3 = 60;<br>let compare_1 = (age_1 > age_3)<br>if (compare_1) {<br>console.log("Keep calm and look Culture channel")<br>}
-
- |33. Иначе выводите “Technical work”.| let age_1 = 10;<br>let age_2 = 18;<br>let age_3 = 60;<br>let compare_1 = (age_1 > age_3)<br>if (compare_1) {  <br>console.log("Keep calm and look Culture channel")<br>}<br>else {<br>    console.log("Technical work")
+ |33. Иначе выводите “Technical work”.|let age_1 = 10;<br>let age_2 = 18;<br>let age_3 = 60;<br>let compare_1 = (age_1 > age_3)<br>if (compare_1) {  <br>console.log("Keep calm and look Culture channel")<br>}<br>else {<br>    console.log("Technical work")
  
  # Задания с разным количеством звездочек:)
 # 1*
